@@ -1,11 +1,11 @@
 {
-    "title": "Диаграмма UML Use Case",
+    "title": "IDEF0 диаграммы",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Описание выбранного процесса в формате прецедента (Use Case)",
+                    "text": "IDEF0 диаграммы",
                     "class": "md-title"
                 }
             ]
@@ -14,21 +14,61 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Формирование путевых листов "
-                },
-                {
-                   
+                    "text": "Диаграмма А0"
                 }
             ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/01_A0.png"
         },
         {
             "type": "text",
             "data": [
                 {
-                     }
+                    "text": "Диаграмма А1-А4"
+                }
             ]
         },
         {
             "type": "image",
-            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Diagram(2).png"
+            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/02_A0.png"
         },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма А21-А24"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/03_A2.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма А31-А34"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/04_A3.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма А41-А44"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/05_A4.png"
+        }
+    ]
+}
