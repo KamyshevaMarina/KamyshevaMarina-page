@@ -5,13 +5,14 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML Use Case"
+                    "text": "Диаграмма UML Use Case",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Use%20Case.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/UML%20Diagram(2).png" 
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/8.PNG?raw=true" 
         },
         {
             "type": "text",
@@ -22,21 +23,64 @@
             ]
         },
         {
-            "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UMLClass.png" 
-        }, 
-        {
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML Sequence"
-
+                    "text": "ER-диаграмма потоков",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/UMLClass.png" 
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/9.PNG?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма ролей",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/10.PNG?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма модулей",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/11.PNG?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемые процессы и потоки данных: А33 Сформировать документ"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Sequence.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/12.PNG?raw=true" 
         },
         {
             "type": "text",
@@ -50,13 +94,14 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML (Component)",
+                    "text": "Диаграмма UML Deployment",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Deployment.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://camo.githubusercontent.com/d04d166dd3b9ab9f1ee043c0d0f11a1c95dc7c48453bea03e36f4e24b35e0afb/687474703a2f2f7777772e706c616e74756d6c2e636f6d2f706c616e74756d6c2f706e672f504f7a313265393036345274537565567a7445353441614a4842474735753670496d4572484b485748516a4d4751694d494a5647714231326b79387444736836324f42516b46357a785f725a6e796161496b523162384b704e763235326f67507567675f58304545355971504b5479584a6778772d4b4942457735345a57514474436b546e725269436e75463738774e636a5354547145626531674c53476d4e53493832684a635a4b353245306774537538377948715a61366a575a706469675f6171576d7564614d577a6241685365544b34684239714f6e4942673369742d5a2d5971365a3149347231594d75492d556c7952" 
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/13.PNG?raw=true" 
         }
       ]
 }
