@@ -11,7 +11,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Diagram(2).png" 
+            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/UML%20Diagram(2).png" 
         },
         {
             "type": "text",
@@ -36,7 +36,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Sequence" 
+            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/UMLClass.png" 
         },
         {
             "type": "text",
@@ -50,13 +50,13 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML Deployment",
+                    "text": "Диаграмма UML (Component)",
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20(Component)" 
+            "data":"https://camo.githubusercontent.com/d04d166dd3b9ab9f1ee043c0d0f11a1c95dc7c48453bea03e36f4e24b35e0afb/687474703a2f2f7777772e706c616e74756d6c2e636f6d2f706c616e74756d6c2f706e672f504f7a313265393036345274537565567a7445353441614a4842474735753670496d4572484b485748516a4d4751694d494a5647714231326b79387444736836324f42516b46357a785f725a6e796161496b523162384b704e763235326f67507567675f58304545355971504b5479584a6778772d4b4942457735345a57514474436b546e725269436e75463738774e636a5354547145626531674c53476d4e53493832684a635a4b353245306774537538377948715a61366a575a706469675f6171576d7564614d577a6241685365544b34684239714f6e4942673369742d5a2d5971365a3149347231594d75492d556c7952" 
         }
       ]
 }
