@@ -1,0 +1,62 @@
+{
+    "title": "Создание диаграмм UML курсового проекта",
+    "items": [  
+      {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Use Case",
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Diagram(2).png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UMLClass.png" 
+        }, 
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Sequence" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Структура программных средств системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Deployment",
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20(Component)" 
+        }
+      ]
+}
