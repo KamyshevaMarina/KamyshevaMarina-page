@@ -44,7 +44,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/06_A41.png" 
+            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/06_A41.png" 
         },
         {
             "type": "text",
@@ -56,7 +56,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/KamyshevaMarina/marina.github.io/blob/master/07_A42.png" 
+            "data":"https://raw.githubusercontent.com/KamyshevaMarina/marina.github.io/master/07_A42.png" 
         }    
     ]
 }
