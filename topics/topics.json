@@ -1,14 +1,20 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "IDEF0 диаграммы",
+        "description": "IDEF0 диаграммы курсового проекта",
+        "preview": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/01_A0.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "DFD диаграммы",
+        "description": "DFD диаграммы курсового проекта",
+        "preview": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/06_A41.png"
+    },
+    {
+        "id": 3,
+        "title": "UML диаграммы",
+        "description": "UML диаграммы курсового проекта",
+        "preview": "https://github.com/KamyshevaMarina/marina.github.io/blob/master/UML%20Diagram(2).png"
     }
 ]
